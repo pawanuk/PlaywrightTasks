@@ -1,1 +1,1 @@
-console.log("Hello, GitHub1!");
+console.log("Hello, GitHub2!");
